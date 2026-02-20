@@ -25,13 +25,13 @@ Focused on **TypeScript / Vue / UI Interaction**.
 
 ## Projects
 
-**deepscan**  
+### [deepscan](https://github.com/alicesainta-sketch/deepscan)
 > Exploring deeper TypeScript patterns and internal structure.
 
-**easymeeting-front**  
+### [easymeeting-front](https://github.com/alicesainta-sketch/easymeeting-front)
 > Lightweight and structured meeting front-end application.
 
-**APIMate**  
+### [APIMate](https://github.com/alicesainta-sketch/APIMate)
 > Minimal and practical API testing helper.
 
 ---
