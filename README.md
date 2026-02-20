@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:D8D8D8,100:AFAFAF&section=header&text=SaintA%20Alice&fontSize=36&fontColor=2b2b2b&animation=fadeIn" />
+</p>
 
-<!--
-**alicesainta-sketch/alicesainta-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/banner.png" width="900" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Frontend developer building clean and structured web interfaces.  
+Focused on **TypeScript / Vue / UI Interaction**.
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,express&theme=dark" />
+</p>
+
+---
+
+## Projects
+
+**deepscan**  
+> Exploring deeper TypeScript patterns and internal structure.
+
+**easymeeting-front**  
+> Lightweight and structured meeting front-end application.
+
+**APIMate**  
+> Minimal and practical API testing helper.
+
+---
+
+<p align="center">
+  minimal · structured · focused
+</p>
