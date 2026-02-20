@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" width="900" />
+  <img src="./images/banner.jpg" width="500" height="500"/>
 </p>
 
 ---
