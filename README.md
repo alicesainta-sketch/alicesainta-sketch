@@ -1,17 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:D8D8D8,100:AFAFAF&section=header&text=SaintA%20Alice&fontSize=36&fontColor=2b2b2b&animation=fadeIn" />
-</p>
 
-<p align="center">
-  <img src="./images/banner.jpg" width="500" height="500"/>
-</p>
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="images/banner.jpg" width="300">
+</td>
+<td width="65%" valign="top">
 
----
+<strong>About</strong><br><br>
 
-## About
+Frontend developer building clean and structured web interfaces.<br><br>
 
-Frontend developer building clean and structured web interfaces.  
-Focused on **TypeScript / Vue / UI Interaction**.
+Focused on <strong>TypeScript / Vue / UI Interaction</strong>.<br><br>
+
+Working on personal projects and exploring better UI structure.
+
+</td>
+</tr>
+</table>
 
 ---
 
