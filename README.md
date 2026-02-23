@@ -25,6 +25,7 @@ Working on personal projects and exploring better UI structure.
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,express&theme=dark" />
 </p>
+<img src="https://img.shields.io/badge/Dev%20Machine-MacBook%20M4-black?style=flat&logo=apple&logoColor=white" />
 
 ---
 
