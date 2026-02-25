@@ -42,6 +42,23 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
+## Connect
+
+<p align="center">
+  <a href="https://discord.gg/frQShpVN">
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://space.bilibili.com/524327153">
+    <img src="https://img.shields.io/badge/Bilibili-FF6699?style=for-the-badge&logo=bilibili&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/AliceSaint5883">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
+  </a>
+</p>
+
+
 <p align="center">
   minimal · structured · focused
 </p>
