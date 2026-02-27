@@ -11,14 +11,16 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: alicesainta-sketch
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-ocean.svg?palette=ocean
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
