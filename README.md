@@ -40,9 +40,6 @@ Working on personal projects and exploring better UI structure.
 ### [easymeeting-front](https://github.com/alicesainta-sketch/easymeeting-front)
 > Lightweight and structured meeting front-end application.
 
-### [APIMate](https://github.com/alicesainta-sketch/APIMate)
-> Minimal and practical API testing helper.
-
 ---
 
 ## Connect
