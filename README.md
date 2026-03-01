@@ -20,7 +20,30 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E5%96%B5%E5%96%B5%E5%96%B5%EF%BD%9E%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E7%8E%A9;这里是我的代码小窝%20%F0%9F%90%BE;关注我不迷路%20(%E2%89%A7%E2%96%BD%E2%89%A6))](https://git.io/typing-svg)
+
+<p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+  <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
+  <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
+</p>
+<img src="https://komarev.com/ghpvc/?username=alicesainta-sketch&style=for-the-badge&color=ff69b4"/>
+<hr />
+<p>
+  <img src="https://img.shields.io/badge/Mood-Happy-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=for-the-badge"/>
+</p>
+
 <img src="https://cards.jerryz.com.cn/api?img=5&date=2026-12-31&str=2026%E5%B9%B4%E6%9C%AB&discord=https%3A%2F%2Fdiscord.gg%2FfrQShpVN&twitter=AliceSaint5883" width="75%">
+
+</div>
+
+---
 
 ## Stack
 
