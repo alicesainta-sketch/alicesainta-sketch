@@ -20,12 +20,15 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
+
 ## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,express&theme=dark" />
 </p>
 <img src="https://img.shields.io/badge/Dev%20Machine-MacBook%20M4-black?style=flat&logo=apple&logoColor=white" />
+
+<img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=alicesainta-sketch" alt="alicesainta-sketch's Github Stats"/>
 
 ---
 
