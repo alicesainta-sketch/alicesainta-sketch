@@ -24,7 +24,8 @@ Working on personal projects and exploring better UI structure.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E5%96%B5%E5%96%B5%E5%96%B5%EF%BD%9E%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E7%8E%A9;这里是我的代码小窝%20%F0%9F%90%BE;关注我不迷路%20(%E2%89%A7%E2%96%BD%E2%89%A6))](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E8%BF%99%E9%87%8C%E5%A0%86%E6%94%BE%E4%B8%80%E4%BA%9B%E4%BB%A3%E7%A0%81%E7%A2%8E%E7%89%87%20%F0%9F%A7%A9;%E6%83%B3%E5%88%B0%E4%BB%80%E4%B9%88%E5%B0%B1%E5%81%9A%E4%BB%80%E4%B9%88;%E5%81%B6%E5%B0%94%E6%9B%B4%E6%96%B0)](https://git.io/typing-svg)
 
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
@@ -45,28 +46,46 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
+<div align="center">
+
 ## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,express&theme=dark" />
 </p>
+
 <img src="https://img.shields.io/badge/Dev%20Machine-MacBook%20M4-black?style=flat&logo=apple&logoColor=white" />
+
+<br><br>
 
 <img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=alicesainta-sketch" alt="alicesainta-sketch's Github Stats"/>
 
----
+<br><br>
 
 ## Projects
 
 ### [deepscan](https://github.com/alicesainta-sketch/deepscan)
 > Exploring deeper TypeScript patterns and internal structure.
 
+<br>
+
 ### [easymeeting-front](https://github.com/alicesainta-sketch/easymeeting-front)
 > Lightweight and structured meeting front-end application.
+
+</div>
 
 ---
 
 ## Connect
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E6%97%A9%E4%B8%8A%E5%A5%BD%E3%80%81%E4%B8%AD%E5%8D%88%E5%A5%BD%E3%80%81%E6%99%9A%E4%B8%8A%E5%A5%BD;%E8%BF%99%E9%87%8C%E6%98%AF%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%AA%9D%20%F0%9F%90%BE;%E5%85%B3%E6%B3%A8%E6%88%91%E4%B8%8D%E8%BF%B7%E8%B7%AF%20(%E2%89%A7%E2%96%BD%E2%89%A6)" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <a href="https://discord.gg/frQShpVN">
