@@ -1,4 +1,22 @@
 
+
+<div align="center">
+
+
+
+<p>
+  <img src="https://img.shields.io/badge/Mood-Happy-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=for-the-badge"/>
+</p>
+
+<img src="https://cards.jerryz.com.cn/api?img=5&date=2026-12-31&str=2026%E5%B9%B4%E6%9C%AB&discord=https%3A%2F%2Fdiscord.gg%2FfrQShpVN&twitter=AliceSaint5883" width="75%">
+
+</div>
+
+---
+
+<div align="center">
+  
 <table width="100%">
 <tr>
 <td width="35%" valign="top">
@@ -20,12 +38,7 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
-
-
-<div align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E8%BF%99%E9%87%8C%E5%A0%86%E6%94%BE%E4%B8%80%E4%BA%9B%E4%BB%A3%E7%A0%81%E7%A2%8E%E7%89%87%20%F0%9F%A7%A9;%E6%83%B3%E5%88%B0%E4%BB%80%E4%B9%88%E5%B0%B1%E5%81%9A%E4%BB%80%E4%B9%88;%E5%81%B6%E5%B0%94%E6%9B%B4%E6%96%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E8%BF%99%E9%87%8C%E6%94%B6%E7%BA%B3%E4%B8%80%E4%BA%9B%E7%AC%94%E8%AE%B0%E5%92%8C%E4%BB%A3%E7%A0%81%20%F0%9F%93%9D;%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95%EF%BC%8C%E6%85%A2%E6%85%A2%E6%94%BE%E5%A4%A7;%E5%81%B6%E5%B0%94%E6%9B%B4%E6%96%B0)](https://git.io/typing-svg)
 
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
@@ -35,18 +48,6 @@ Working on personal projects and exploring better UI structure.
 </p>
 <img src="https://komarev.com/ghpvc/?username=alicesainta-sketch&style=for-the-badge&color=ff69b4"/>
 <hr />
-<p>
-  <img src="https://img.shields.io/badge/Mood-Happy-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Coding-success?style=for-the-badge"/>
-</p>
-
-<img src="https://cards.jerryz.com.cn/api?img=5&date=2026-12-31&str=2026%E5%B9%B4%E6%9C%AB&discord=https%3A%2F%2Fdiscord.gg%2FfrQShpVN&twitter=AliceSaint5883" width="75%">
-
-</div>
-
----
-
-<div align="center">
 
 ## Stack
 
