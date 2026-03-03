@@ -63,6 +63,12 @@ Working on personal projects and exploring better UI structure.
 
 <br><br>
 
+## Original Character Series
+
+<p align="center">
+  <img src="images/pic.png" width="45%">
+</p>
+
 ## Projects
 
 ### [deepscan](https://github.com/alicesainta-sketch/deepscan)
