@@ -65,6 +65,7 @@ Working on personal projects and exploring better UI structure.
 
 ## Original Character Series
 
+艾蕾诺拉  Elenora
 <p align="center">
   <img src="images/pic.png" width="45%">
 </p>
