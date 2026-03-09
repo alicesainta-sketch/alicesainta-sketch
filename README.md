@@ -38,7 +38,7 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E8%BF%99%E9%87%8C%E6%94%B6%E7%BA%B3%E4%B8%80%E4%BA%9B%E7%AC%94%E8%AE%B0%E5%92%8C%E4%BB%A3%E7%A0%81%20%F0%9F%93%9D;%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95%EF%BC%8C%E6%85%A2%E6%85%A2%E6%94%BE%E5%A4%A7;%E5%81%B6%E5%B0%94%E6%9B%B4%E6%96%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=CFA6C9&center=true&vCenter=true&repeat=true&width=520&lines=Notes%2C+code%2C+and+experiments.;Learning+in+public.;Always+building.)](https://git.io/typing-svg)
 
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
