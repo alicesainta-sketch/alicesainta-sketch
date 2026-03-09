@@ -89,7 +89,7 @@ Working on personal projects and exploring better UI structure.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB3BF&center=true&vCenter=true&repeat=true&width=520&lines=%E6%97%A9%E4%B8%8A%E5%A5%BD%E3%80%81%E4%B8%AD%E5%8D%88%E5%A5%BD%E3%80%81%E6%99%9A%E4%B8%8A%E5%A5%BD;%E8%BF%99%E9%87%8C%E6%98%AF%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%AA%9D%20%F0%9F%90%BE;%E5%85%B3%E6%B3%A8%E6%88%91%E4%B8%8D%E8%BF%B7%E8%B7%AF%20(%E2%89%A7%E2%96%BD%E2%89%A6)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C8A2C8&center=true&vCenter=true&repeat=true&width=520&lines=Hello+there.;Welcome+to+my+GitHub.;Code%2C+notes%2C+and+side+projects." />
   </a>
 </p>
 
