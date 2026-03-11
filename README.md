@@ -46,7 +46,7 @@ Working on personal projects and exploring better UI structure.
   <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
   <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=alicesainta-sketch&style=for-the-badge&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=alicesainta&style=for-the-badge&color=ff69b4"/>
 <hr />
 
 ## Stack
