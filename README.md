@@ -59,7 +59,7 @@ Working on personal projects and exploring better UI structure.
 
 <br><br>
 
-<img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=alicesainta-sketch" alt="alicesainta-sketch's Github Stats"/>
+<img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=alicesainta" alt="alicesainta's Github Stats"/>
 
 <br><br>
 
