@@ -108,7 +108,7 @@ Working on personal projects and exploring better UI structure.
     <img src="https://skillicons.dev/icons?i=twitter" height="30" />
   </a>
 </p>
-
+<p>QQ、群、WeChat 等联系方式，熟了可以找我要o；也可以先发点能让我了解你的内容，比如主页、作品或其他链接</p>
 
 <p align="center">
   minimal · structured · focused
