@@ -63,26 +63,8 @@ Working on personal projects and exploring better UI structure.
 
 <br><br>
 
-## Original Character Series
 
-艾蕾诺拉  Elenora
-<p align="center">
-  <img src="images/pic.png" width="45%">
-</p>
 
-## Projects
-
-### [deepscan](https://github.com/alicesainta-sketch/deepscan)
-> Exploring deeper TypeScript patterns and internal structure.
-
-<br>
-
-### [easymeeting-front](https://github.com/alicesainta-sketch/easymeeting-front)
-> Lightweight and structured meeting front-end application.
-
-</div>
-
----
 
 
 
