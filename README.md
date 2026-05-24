@@ -84,33 +84,7 @@ Working on personal projects and exploring better UI structure.
 
 ---
 
-## Connect
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C8A2C8&center=true&vCenter=true&repeat=true&width=520&lines=Hello+there.;Welcome+to+my+GitHub.;Code%2C+notes%2C+and+side+projects." />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://discord.gg/frQShpVN">
-    <img src="https://skillicons.dev/icons?i=discord" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://space.bilibili.com/524327153">
-    <img src="https://img.shields.io/badge/Bilibili-FF6699?style=for-the-badge&logo=bilibili&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/AliceSaint5883">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
-  </a>
-</p>
-<p align="center" style="margin-top:10px;color:#666;font-size:14px;line-height:1.6;">
-  QQ、群、WeChat 等联系方式，熟了可以找我要o；也可以先发点能让我了解你的内容，比如主页、作品或其他链接
-</p>
 
 <p align="center" style="color:#999;margin:6px 0;">—</p>
 
